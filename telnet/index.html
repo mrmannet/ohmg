@@ -1,0 +1,34 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Telnet</title>
+<meta name="monetization" content="$ilp.uphold.com/h9iiy6FEbKG6">
+<script defer data-domain="oh.mg" src="https://plausible.io/js/plausible.js"></script>
+</head>
+<body background="https://cdn.oh.mg/png/BGInfo.png" bgcolor="#FFFFFF">
+<div id="fTelnetContainer" class="fTelnetContainer"></div>
+<script>document.write('<script src="//embed-v2.ftelnet.ca/js/ftelnet-loader.norip.xfer.js?v=' + (new Date()).getTime() + '"><\/script>');</script>
+<script>
+    var Options = new fTelnetOptions();
+    Options.BareLFtoCRLF = false;
+    Options.BitsPerSecond = 57600;
+    Options.ConnectionType = 'telnet';
+    Options.Emulation = 'ansi-bbs';
+    Options.Enter = '\r';
+    Options.Font = 'CP437';
+    Options.ForceWss = false;
+    Options.Hostname = 'oh.mg';
+    Options.LocalEcho = false;
+    Options.Port = 23;
+    Options.ProxyHostname = 'proxy-nl.ftelnet.ca';
+    Options.ProxyPort = 80;
+    Options.ProxyPort = 443;
+    Options.ScreenColumns = 80;
+    Options.ScreenRows = 25;
+    var fTelnet = new fTelnetClient('fTelnetContainer', Options);
+</script>
+<script data-goatcounter="https://omg.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

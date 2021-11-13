@@ -1,0 +1,31 @@
+# SelfHosti.ng an OH.MGuide
+
+```
+    __ __
+   / //_/__  ___  ____
+  / ,< / _ \/ _ \/ __ \
+ / /| /  __/  __/ /_/ /
+/_/ |_\___/\___/ .___/
+\ \/ /___  __ /_/_____
+ \  / __ \/ / / / ___/
+ / / /_/ / /_/ / /
+/_/\____/\__,_/_/_
+   / __ \____ _/ /_____ _
+  / / / / __ `/ __/ __ `/
+ / /_/ / /_/ / /_/ /_/ /
+/_____/\__,_/\__/\__,_/
+  / ____ \/ / / /___  ____ ___  ___
+ / / __ `/ /_/ / __ \/ __ `__ \/ _ \
+/ / /_/ / __  / /_/ / / / / / /  __/
+\ \__,_/_/ /_/\____/_/ /_/ /_/\___/
+ \____/
+```
+
+Editor's note August 2021 : Technically this site is hosted at a professional web hosting company before y'all do doing a $ dig a oh.mg and tell me I live in the haunted village of lies.
+=> /bbs/news/merci-free/	This would be why
+
+Here at OH.MG Conglomorate Enterprises Incorporated LLC GmbH SAS are very keen on the self hosting movement, with big data slopping up your every move, and silios like Twitter and Facebook slamming you with kooky conspiracies, being in the real internet is the best place to be.
+
+It's not that hard really, all it takes is a little bit of caffine and hope, and you too can run whatever you like from the comfort of your own home (or VPS).  In fact this little website is hosted on a virtual machine sitting on a shelf in an appartment in Paris, France using a fibre connection, Let's Encrypt, and an ISP who allows full stack IPv4.
+
+While this is not a complete guide (and to be honest there is a lot of cheating here too), I hope it'll give you the moxy to spin up your own machine and give it a whirrl.

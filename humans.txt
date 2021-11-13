@@ -1,0 +1,65 @@
+      ::::::::  :::    :::       :::   :::    ::::::::                                                             
+    :+:    :+: :+:    :+:      :+:+: :+:+:  :+:    :+:                                                             
+   +:+    +:+ +:+    +:+     +:+ +:+:+ +:+ +:+                                                                     
+  +#+    +:+ +#++:++#++     +#+  +:+  +#+ :#:                                                                      
+ +#+    +#+ +#+    +#+     +#+       +#+ +#+   +#+#                                                                
+#+#    #+# #+#    #+# #+# #+#       #+# #+#    #+#                                                                 
+########  ###    ### ### ###       ###  ########                                                                   
+      :::    ::: :::    :::   :::   :::       :::     ::::    :::  ::::::::     ::::::::::: :::    ::: ::::::::::: 
+     :+:    :+: :+:    :+:  :+:+: :+:+:    :+: :+:   :+:+:   :+: :+:    :+:        :+:     :+:    :+:     :+:      
+    +:+    +:+ +:+    +:+ +:+ +:+:+ +:+  +:+   +:+  :+:+:+  +:+ +:+               +:+      +:+  +:+      +:+       
+   +#++:++#++ +#+    +:+ +#+  +:+  +#+ +#++:++#++: +#+ +:+ +#+ +#++:++#++        +#+       +#++:+       +#+        
+  +#+    +#+ +#+    +#+ +#+       +#+ +#+     +#+ +#+  +#+#+#        +#+        +#+      +#+  +#+      +#+         
+ #+#    #+# #+#    #+# #+#       #+# #+#     #+# #+#   #+#+# #+#    #+# #+#    #+#     #+#    #+#     #+#          
+###    ###  ########  ###       ### ###     ### ###    ####  ########  ###    ###     ###    ###     ###           
+
+/* L'equip editorial */
+
+Name : Kévin COSTELLOE
+Contact : https://oh.mg/contact/
+Mastodon : @mmn@mastodon.sdf.org
+Twitter : @mmn
+Instagram : @kdwc
+Where : Paris, France
+      : Barcelona, Catalunya
+      : Once in a while Oslo, Norway
+
+
+/* Takk */
+
+                                          88 88                    
+                                          88 ""   ,d               
+                                          88      88               
+ ,adPPYba, 8b,dPPYba,  ,adPPYba,  ,adPPYb,88 88 MM88MMM ,adPPYba,  
+a8"     "" 88P'   "Y8 a8P_____88 a8"    `Y88 88   88    I8[    ""  
+8b         88         8PP""""""" 8b       88 88   88     `"Y8ba,   
+"8a,   ,aa 88         "8b,   ,aa "8a,   ,d88 88   88,   aa    ]8I  
+ `"Ybbd8"' 88          `"Ybbd8"'  `"8bbdP"Y8 88   "Y888 `"YbbdP"'
+
+                      ,     ,
+                     (\____/)
+                       (_oo_)
+                         (O)
+                       __||__    \)
+                    []/______\[] /
+                    / \______/ \/
+                   /    /__\
+                  (\   /____\
+
+               MMN / OH.MG since 1996
+
+                    THANK YOU 
+             Francesco "Frank" Belissimo
+                Nick Bell Kira Synder
+             Lesley Earl Blaise The Andys
+            Duane Brown The Flock of Cats
+
+/* SITE */
+
+OH.MG is created using :
+kiln - https://git.sr.ht/~adnano/kiln
+gmnisrv - https://git.sr.ht/~sircmpwn/gmnisrv
+tardigrade - https://www.tardigrade.io/
+DreamObjects - https://www.dreamhost.com/cloud/storage/
+DreamCompute - https://www.dreamhost.com/cloud/computing/
+Find a security fault, tell Lab Security : fiarovana-ny-laboratoara@labs.oh.mg

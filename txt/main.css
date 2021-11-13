@@ -1,0 +1,13 @@
+body{font-family:monospace;padding:1ch;margin:auto;max-width:80ch}
+@media(min-resolution:130dpi){body{font-size:1.5em}}
+pre{display:block;overflow:auto;padding:2ch}
+pre>p{margin:0}
+header>dl>dt{float:left;min-width:10ch;text-align:right;padding-right:1ch}
+:target::before{content:"ðŸ‘‰ "}
+header>nav{float:right}
+
+body{background-color:#1a1a1a}
+body,header>a{color:#ddc}
+a{color:LightSkyBlue;text-decoration:none}
+pre{background-color:#0a0a0a;border-top:1px solid #c54}
+h1,h2{color:#d54}

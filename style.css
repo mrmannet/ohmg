@@ -1,0 +1,15 @@
+body {
+	font-family: sans-serif;
+	padding: 2rem 1.25rem;
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+p, h1, h2, h3, ul, pre {
+	margin: 0;
+}
+
+pre {
+	display: block;
+	overflow-x: auto;
+}

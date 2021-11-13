@@ -1,0 +1,10 @@
+2021-08-01T20:48:34+00:00	Hello, this is twtxt!
+2021-08-01T20:57:04+00:00	@<kevin https://twtxt.net/user/kevin/twtxt.txt> this is a test
+2021-08-02T17:37:44+00:00	I have no idea what I'm doing today
+2021-08-02T19:02:37+00:00	I genuinely hate looking at appartments in Paris, nobody ever responds, and everywhere I like is fucking expensive
+2021-08-04T21:31:25+00:00	I should really be in bed
+2021-08-06T19:35:49+00:00	In my quest to find a nicer HTML layout for my site, I just found bloated JavaScript thigs and shitty Google Fonts
+2021-09-08T19:17:30+00:00	It's been a while, but here we are again
+2021-09-12T23:17:31+00:00	Changing the BBS name over to OHMGix because I'm a good Christian
+2021-10-06T18:51:37+00:00	Pretty nice to have the servers back up again and some real internet
+2021-10-29T23:13:17+00:00	I keep on looking at my website wanting to make it better, but then I get tired and nothing happens

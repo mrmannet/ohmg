@@ -1,0 +1,11 @@
+# OH.MG
+
+## Main topics
+
+=> index.test.gmi Test
+
+## Latest
+
+=> c2149b02.gmi 2021-10-14 Test
+
+=> index.date.gmi More by date
